@@ -1,0 +1,14 @@
+Query 3 Results Monetdb
+
+
+
++-----------------+-------------+
+| o_orderpriority | order_count |
++=================+=============+
+| 1-URGENT        |        1085 |
+| 2-HIGH          |        1048 |
+| 3-MEDIUM        |        1076 |
+| 4-NOT SPECIFIED |        1019 |
+| 5-LOW           |        1020 |
++-----------------+-------------+
+5 tuples (15.753ms)

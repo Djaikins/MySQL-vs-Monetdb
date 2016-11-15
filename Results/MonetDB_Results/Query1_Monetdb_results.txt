@@ -1,0 +1,15 @@
+Query 1 Results Monetdb
+
+
++-------------------+-------------+-------------+-------+--------------+--------------+--------------+--------------+
+| s_acctbal         | s_name      | n_name      | p_par | p_mfgr       | s_address    | s_phone      | s_comment    |
+:                   :             :             : tkey  :              :              :              :              :
++===================+=============+=============+=======+==============+==============+==============+==============+
+|           5222.69 | Supplier#00 | INDONESIA   | 18682 | Manufacturer | f0siVrn1T,dO | 19-708-346-1 | odolites use |
+:                   : 0000219     :             :       : #1           : IJgYU        : 944          :  carefully a :
+:                   :             :             :       :              :              :              : bout the reg :
+|           4140.02 | Supplier#00 | INDIA       | 19877 | Manufacturer | cennOpnejXFu | 18-462-213-5 | gular theodo |
+:                   : 0000878     :             :       : #4           : wxsxrfoz6U,W : 795          : lites wake.  :
+:                   :             :             :       :              : N TC7        :              : blithely b...>
++-------------------+-------------+-------------+-------+--------------+--------------+--------------+--------------+
+2 tuples (13.755ms) !1 field truncated!

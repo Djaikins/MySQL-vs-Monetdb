@@ -1,0 +1,14 @@
+Query 3 InnoDB Results
+
+
+
++-----------------+-------------+
+| o_orderpriority | order_count |
++-----------------+-------------+
+| 1-URGENT        |        1085 |
+| 2-HIGH          |        1048 |
+| 3-MEDIUM        |        1076 |
+| 4-NOT SPECIFIED |        1019 |
+| 5-LOW           |        1020 |
++-----------------+-------------+
+5 rows in set (15 min 34.30 sec)
