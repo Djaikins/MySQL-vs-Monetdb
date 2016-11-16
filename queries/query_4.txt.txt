@@ -1,0 +1,13 @@
+6.sql
+
+
+
+select
+        sum(l_extendedprice * l_discount) as revenue
+from
+        lineitem
+where
+        l_shipdate >= date '1993-03-05'
+        and l_shipdate < date '1993-03-06' + interval '1' year
+        and l_discount between .03 and .06
+        and l_quantity < 3;
